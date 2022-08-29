@@ -3,6 +3,16 @@ This is a repository containing the material regarding data science modules impl
 
 # Computer Science Colloquium
 This respository contains the data science infusion adopter modules of the Computer Science Colloquium course taught by Dr. Munene Kanampiu. The Computer Science Colloquium course is offered in the Computer Science department once a year at Winston-Salem State University. The students who enroll in this course are majoring in Computer Science, usually those who are first-years.
-The topics
+
+The focus of this course involves broadening student’s general knowledge of computing fields and computer ethics, as well as developing critical thinking and problem-solving skills using current technologies and computing tools. 
 
 # Learning Outcomes
+* Students will be introduced to the emerging field of data science and analytics in a guided, step-by-step, experiential modular methodology, especially by way of cloud computing.
+* Students will have the knowledge and skill in data science for workshops, symposiums, and upper level courses.
+
+# Data Science Infusion
+
+# Contact
+For questions or additional support regarding this module, feel free to reach out to us:
+* [Munene Kanampiu, Instructor of this module and Lecturer of Computer Science at Winston-Salem State University](mailto:kanampiumw@wssu.edu)
+* [Debzani Deb, Founding Director of the Center for Applied Data Science (CADS) at Winston-Salem State University](mailto:debd@wssu.edu)
