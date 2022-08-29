@@ -32,7 +32,7 @@ This repository aims to be a central open-source resource for all modules and ma
       </td>
     </tr>
     <tr>
-      <td><a href="">Computer Science Colloquium</a></td>
+      <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/CSC1105-Computer-Science-Colloquium-Data-Science-Module">Computer Science Colloquium</a></td>
       <td>
         CSC 1105 Computer Science Colloquium
       </td>
