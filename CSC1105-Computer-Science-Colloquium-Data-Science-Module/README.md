@@ -12,7 +12,7 @@ The focus of this course involves broadening student’s general knowledge of co
 
 # Data Science Infusion
 The primary focus of this reposity concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. These modules are classified into two broad areas:
-* Module 1: Introduction to Data Science
+* Module 1: Introduction to Data Science and Applications
 * Module 2: Data Acquisition, Cleaning, Manipulation and Visualization
 
 # Contact
