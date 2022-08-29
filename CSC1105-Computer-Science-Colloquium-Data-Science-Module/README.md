@@ -15,6 +15,8 @@ The primary focus of this reposity concerns only the portion of the course where
 * Module 1: Introduction to Data Science and Applications
 * Module 2: Data Acquisition, Cleaning, Manipulation and Visualization
 
+# Navigation the Repository
+
 # Contact
 For questions or additional support regarding this module, feel free to reach out to us:
 * [Munene Kanampiu, Instructor of this module and Lecturer of Computer Science at Winston-Salem State University](mailto:kanampiumw@wssu.edu)
