@@ -34,17 +34,7 @@ The primary focus of this reposity concerns only the portion of the course where
       <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/CSC1105-Computer-Science-Colloquium-Data-Science-Module/Labs">Labs</a></td>
       <td>
         <ul>
-          <li>Lab 1</li>
-          <li>Lab 2</li>
-          <li>Lab 3</li>
-          <li>Lab 4</li>
-          <li>Lab 5</li>
-          <li>Lab 6</li>
-          <li>Lab 7</li>
-          <li>Lab 8</li>
-          <li>Lab 9</li>
-          <li>Lab 10</li>
-          <li>Lab 11</li>
+          <li>Labs 1-11</li>
           <li>Google Colab Tutorial</li>
         </ul>
       </td>
