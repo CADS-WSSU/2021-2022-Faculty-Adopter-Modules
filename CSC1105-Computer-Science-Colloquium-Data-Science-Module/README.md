@@ -16,6 +16,57 @@ The primary focus of this reposity concerns only the portion of the course where
 * Module 2: Data Acquisition, Cleaning, Manipulation and Visualization
 
 # Navigation the Repository
+<table>
+  <tbody>
+    <tr>
+      <th>Folders In Repository</th>
+      <th>Information In Each Folder</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/CADS-WSSU/SPM3301-Sports-Marketing-and-Promotion-Data-Science-Module/tree/main/Lectures">Lecture Notes</a></td>
+      <td>
+        <ul>
+          <li>Module 1 - Introduction to Data and Data Analytics
+          </li>
+          <li>Module 2 - Descriptive Statistics
+          </li>
+          <li>Module 3 - Hypothesis Testing
+          </li>
+          <li>Module 4 - Regression Analysis
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/CADS-WSSU/SPM3301-Sports-Marketing-and-Promotion-Data-Science-Module/tree/main/Class%20Activity%20Assignments">Class Activity Assignments</a></td>
+      <td>
+        <ul>
+          <li>Module 1 Assignment (Measures of centrality & dispersion, graphs & tables)</li>
+          <li>Module 2 Assignment (Correlation and covariance, cross-tabulation)</li>
+          <li>Module 3 Assignment (t-test & one-way ANOVA)</li>
+          <li>Module 4 Assignment (Regression Analysis)</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/CADS-WSSU/SPM3301-Sports-Marketing-and-Promotion-Data-Science-Module/tree/main/Quizzes">Data Analysis Quizzes</a></td>
+      <td>
+        <ul>
+          <li>Quiz for Modules 1 & 2</li>
+          <li>Quiz for Modules 3 & 4</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/CADS-WSSU/SPM3301-Sports-Marketing-and-Promotion-Data-Science-Module/tree/main/Student%20Performance%20Sample">Student Work Examples</a></td>
+      <td>
+        <ul>
+          <li>Sample student submissions from the assignments and quizzes</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # Contact
 For questions or additional support regarding this module, feel free to reach out to us:
