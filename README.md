@@ -38,7 +38,7 @@ This repository aims to be a central open-source resource for all modules and ma
       </td>
     </tr>
     <tr>
-      <td><a href="">Fitness Concepts/Assessments </a></td>
+      <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/PED3322-Fitness-Concepts-Assessments-Data-Science-Module">Fitness Concepts/Assessments </a></td>
       <td>
         PED 3322 Fitness Concepts/Assessments 
       </td>
