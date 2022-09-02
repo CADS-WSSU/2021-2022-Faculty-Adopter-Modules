@@ -6,28 +6,40 @@ This respository contains the data science infusion adopter modules of a course 
 This lecture course will help the student to build a foundation for the individual experience and enjoyment of art. It presents art theory, practice, and history. It is designed to enhance awareness and appreciation of the visual arts. 
 # Learning Outcomes
 * Students will be able to see opportunities in the areas of arts careers that include science and new technologies that add worth to the field of the arts.
-* Students will be able to perform, interpret and report the findings of selected statistical analyses such as descriptive statistics, hypothesis testing, regression analyses and epidemiologic tables using public health and biomedical data.
-
+* Students will appreciate objective qualities in the Visual Arts and understand that there is no mystery to the evidence associated with subjective qualities such as beauty, expression and unity. 
+* Students will become familiar with the quantitative aspects of artworks and how to analyze and assess original and forged artworks. 
 
 # Data Science Infusion
-The primary focus of this reposity concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. These modules are classified into four broad areas:
-
-![image](https://user-images.githubusercontent.com/57458856/172091815-011e6cfa-455a-4c53-b3c9-85f03711375f.png)
-
-* Introduction to SAS Programming
-* Hypothesis Testing
-* Categorical Data Analysis
-* Correlation and Regression
+The primary focus of this reposity concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. In this case, the module was centered around one larger scale data analysis project of detecting art fraud using brush stroke/line coordinate data.
 
 # Navigating The Repository
 
-| Folders In Repository           | Information In Each Folder                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-|---------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [Lecture Notes](https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/MAT3312-Biostatistics-Data-Science-Module-main/Lectures)                  | <ul> <li>Intro to SAS Programming (Tutorial Lecture)</li> <ul><li>How to set up SAS on demand</li> <li>Importing, exporting, and creating SAS datasets</li> <li>Coding in SAS and exporting results</li> <li>Descriptive Statistics and Graphical Analysis</li> </ul> <li>Hypothesis Testing</li> <ul><li>Two-sample T-testing</li></ul> <li>Categorical Data Analysis</li> <ul><li>Contingency tables</li><li>Chi-Square tests</li></ul> <li>Correlation and Regression</li> <ul><li>Scatter Plot</li><li>Correlation</li><li>Simple linear regression analysis</li><li>Multiple linear regression analysis</li></ul> </ul> |
-| [Individual Homework Assignments](https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/MAT3312-Biostatistics-Data-Science-Module-main/Homework) | <ul> <li>Homework Assignment 1 (Descriptive Statistics)</li> <li>Homework Assignment 2 (Two-Sample T-test)</li> <li>Homework Assignment 3 (Categorical Data Analyses)</li> <li>Homework Assignment 4 (Regression Analyses)</li> </ul>                                                                                                                                                                                                                                                                                                                                                                                        |
-| [Data Analysis Team Assignments](https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/MAT3312-Biostatistics-Data-Science-Module-main/Data%20Analysis%20Team%20Assignments)  | <ul> <li>Team Assignment 1 (Descriptive Statistics)</li> <li>Tean Assignment 2 (Categorical Analyses)</li> <li>Team Assignment 3 (Regression Analysis)</li> </ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
-| [Data Analysis Project](https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/MAT3312-Biostatistics-Data-Science-Module-main/Data%20Analysis%20Project)           | <ul> <li>Data project details and outline</li> <li>Research topics</li> <li>Information about dataset</li> <li>Codebook for dataset</li> <li>Assessment grading scale</li> </ul>                                                                                                                                                                                                                                                                                                                                                                                                                                             |
-| [Student Work Examples](https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/MAT3312-Biostatistics-Data-Science-Module-main/Student%20Work%20Examples)           | <ul><li>Sample student submission from the project, team assignments, and homework</li></ul>                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |                                                                                                |
+<table>
+  <tbody>
+    <tr>
+      <th>Folders In Repository</th>
+      <th>Information In Each Folder</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/JUS4330-Social-Justice-Data-Science-Module--main/Lectures">Lecture Notes</a></td>
+      <td>
+        <ul>
+          <li>Module 1 - Introductory CADS Module
+            <ul>
+              <li>Survey Research Lecture</li>
+              <li>Secondary Data Analysis Lecture</li>
+            </ul>
+          </li>
+          <li>Module 2 - Descriptive Statistics Module
+            <ul>
+              <li>Descriptive Statistics Lecture</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>                                           |
 
 # Contact
 For questions or additional support regarding this module, feel free to reach out to us:
