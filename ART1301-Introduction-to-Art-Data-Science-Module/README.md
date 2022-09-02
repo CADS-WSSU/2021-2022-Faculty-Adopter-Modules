@@ -3,7 +3,7 @@ This is a repository containing the material regarding data science modules impl
 # Introduction to Art
 This respository contains the data science infusion adopter modules of a course in Introduction to Art as taught by Dr. Scott Betz. The Introduction to Art course is offered in the Art department once a year in the Fall at Winston-Salem State University. This course is primarily intended for art majors or those who have an interest in art.
 
-This lecture course will help the student to build a foundation for the individual experience and enjoyment of art. It presents art theory, practice, and history. It is designed to enhance awareness and appreciation of the visual arts. 
+This module will help the student to build a foundation for the individual experience and enjoyment of art. It presents art theory, practice, and history. It is designed to enhance awareness and appreciation of the visual arts. 
 # Learning Outcomes
 * Students will be able to see opportunities in the areas of arts careers that include science and new technologies that add worth to the field of the arts.
 * Students will appreciate objective qualities in the Visual Arts and understand that there is no mystery to the evidence associated with subjective qualities such as beauty, expression and unity. 
