@@ -21,6 +21,40 @@ The primary focus of this reposity concerns only the portion of the course where
 * Correlation Analysis
 
 # Navigation the Repository
+<table>
+  <tbody>
+    <tr>
+      <th>Folders In Repository</th>
+      <th>Information In Each Folder</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/CSC1105-Computer-Science-Colloquium-Data-Science-Module/Lectures">Lectures</a></td>
+      <td>
+        <ul>
+          <li>What is Data Science</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/CSC1105-Computer-Science-Colloquium-Data-Science-Module/Labs">Labs</a></td>
+      <td>
+        <ul>
+          <li>Labs 1-11</li>
+          <li>Google Colab Tutorial</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/CSC1105-Computer-Science-Colloquium-Data-Science-Module/Student%20Work%20Examples">Student Work Examples</a></td>
+      <td>
+        <ul>
+          <li>Lab Examples</li>
+          <li>Final Presentation Examples</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 # Contact
 For questions or additional support regarding this module, feel free to reach out to us:
