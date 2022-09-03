@@ -38,11 +38,12 @@ The primary focus of this reposity concerns only the portion of the course where
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/CSC1105-Computer-Science-Colloquium-Data-Science-Module/Labs">Labs</a></td>
+      <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/PED3322-Fitness-Concepts-Assessments-Data-Science-Module/Data%20Analysis%20Assignments">Data Analysis Assignments</a></td>
       <td>
         <ul>
-          <li>Labs 1-11</li>
-          <li>Google Colab Tutorial</li>
+          <li>Data Analysis I: Descriptive Analysis (Excel & SPSS)</li>
+          <li>Data Analysis II: Comparison Analysis (Excel)</li>
+          <li>Data Analysis III: Correlation Analysis (Excel)</li>
         </ul>
       </td>
     </tr>
