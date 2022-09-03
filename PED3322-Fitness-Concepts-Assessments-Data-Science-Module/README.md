@@ -47,7 +47,7 @@ The primary focus of this reposity concerns only the portion of the course where
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/CSC1105-Computer-Science-Colloquium-Data-Science-Module/Student%20Work%20Examples">Student Work Examples</a></td>
+      <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/PED3322-Fitness-Concepts-Assessments-Data-Science-Module/Student%20Work%20Examples">Student Work Examples</a></td>
       <td>
         <ul>
           <li>Lab Examples</li>
