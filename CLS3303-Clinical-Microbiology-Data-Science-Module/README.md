@@ -24,13 +24,7 @@ The primary focus of this repository concerns only the portion of the course whe
       <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/CLS3303-Clinical-Microbiology-Data-Science-Module/Homework">Homework</a></td>
       <td>
         <ul>
-          <li>Module 1 - Introductory CADS Module
-            <ul>
-              <li>Survey Research Lecture</li>
-              <li>Secondary Data Analysis Lecture</li>
-            </ul>
-          </li>
-          <li>Module 2 - Descriptive Statistics Module
+          <li>Guide on Performing Regression Analysis
             <ul>
               <li>Descriptive Statistics Lecture</li>
             </ul>
