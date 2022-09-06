@@ -10,7 +10,7 @@ This module will help the student to build a foundation for the individual exper
 * Students will become familiar with the quantitative aspects of artworks and how to analyze and assess original and forged artworks. 
 
 # Data Science Infusion
-The primary focus of this reposity concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. In this case, the module was centered around one larger scale data analysis project of detecting art fraud using brush stroke/line coordinate data.
+The primary focus of this repository concerns only the portion of the course where the data science infusion modules were implemented as part of the CADS adopter program. In this case, the module was centered around one larger scale data analysis project of detecting art fraud using brush stroke/line coordinate data.
 
 # Navigating The Repository
 
