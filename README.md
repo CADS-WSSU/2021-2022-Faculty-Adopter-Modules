@@ -17,7 +17,7 @@ This repository aims to be a central open-source resource for all modules and ma
       </td>
     </tr>
     <tr>
-      <td><a href="">Clincal Microbiology</a></td>
+      <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/CLS3303-Clinical-Microbiology-Data-Science-Module">Clincal Microbiology</a></td>
       <td>
        CLS 3303 Clincal Microbiology
       </td>
