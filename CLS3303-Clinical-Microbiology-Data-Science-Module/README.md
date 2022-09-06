@@ -14,14 +14,14 @@ The primary focus of this repository concerns only the portion of the course whe
 
 # Navigating The Repository
 
-<<table>
+<table>
   <tbody>
     <tr>
       <th>Folders In Repository</th>
       <th>Information In Each Folder</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/JUS4330-Social-Justice-Data-Science-Module--main/Lectures">Lecture Notes</a></td>
+      <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/CLS3303-Clinical-Microbiology-Data-Science-Module/Homework">Homework</a></td>
       <td>
         <ul>
           <li>Module 1 - Introductory CADS Module
@@ -39,7 +39,7 @@ The primary focus of this repository concerns only the portion of the course whe
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/JUS4330-Social-Justice-Data-Science-Module--main/Data%20Analysis%20Assignments">Data Analysis Assignments</a></td>
+      <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/CLS3303-Clinical-Microbiology-Data-Science-Module/Data%20Analysis%20Project">Data Analysis Project</a></td>
       <td>
         <ul>
           <li>Module 1 Assignment</li>
@@ -47,7 +47,7 @@ The primary focus of this repository concerns only the portion of the course whe
       </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/JUS4330-Social-Justice-Data-Science-Module--main/Data%20Analysis%20Quizzes">Data Analysis Quizzes</a></td>
+      <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/CLS3303-Clinical-Microbiology-Data-Science-Module/Student%20Work%20Examples">Student Work Examples</a></td>
       <td>
         <ul>
           <li>Module 1 Quiz</li>
