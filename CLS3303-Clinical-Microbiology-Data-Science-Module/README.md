@@ -14,20 +14,48 @@ The primary focus of this repository concerns only the portion of the course whe
 
 # Navigating The Repository
 
-<table>
+<<table>
   <tbody>
     <tr>
       <th>Folders In Repository</th>
       <th>Information In Each Folder</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/ART1301-Introduction-to-Art-Data-Science-Module/Data%20Analysis%20Project">Data Analysis Project</a></td>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/JUS4330-Social-Justice-Data-Science-Module--main/Lectures">Lecture Notes</a></td>
       <td>
-      The sole project of this module focusing on utilizing data analysis techniques for detecting fraudulent art based on the objective data of a given art piece.
+        <ul>
+          <li>Module 1 - Introductory CADS Module
+            <ul>
+              <li>Survey Research Lecture</li>
+              <li>Secondary Data Analysis Lecture</li>
+            </ul>
+          </li>
+          <li>Module 2 - Descriptive Statistics Module
+            <ul>
+              <li>Descriptive Statistics Lecture</li>
+            </ul>
+          </li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/JUS4330-Social-Justice-Data-Science-Module--main/Data%20Analysis%20Assignments">Data Analysis Assignments</a></td>
+      <td>
+        <ul>
+          <li>Module 1 Assignment</li>
+        </ul>
+      </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/CADS-WSSU/Data-Science-Modules/tree/main/JUS4330-Social-Justice-Data-Science-Module--main/Data%20Analysis%20Quizzes">Data Analysis Quizzes</a></td>
+      <td>
+        <ul>
+          <li>Module 1 Quiz</li>
+        </ul>
       </td>
     </tr>
   </tbody>
-</table>                                       
+</table>                           
 
 # Contact
 For questions or additional support regarding this module, feel free to reach out to us:
