@@ -35,7 +35,7 @@ The primary focus of this repository concerns only the portion of the course whe
       <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/CLS3303-Clinical-Microbiology-Data-Science-Module/Data%20Analysis%20Project">Data Analysis Project</a></td>
       <td>
         <ul>
-          <li>Module 1 Assignment</li>
+          <li>Data Analysis Project involving a COVID-19 vaccine side-effect dataset</li>
         </ul>
       </td>
     </tr>
@@ -43,7 +43,7 @@ The primary focus of this repository concerns only the portion of the course whe
       <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/CLS3303-Clinical-Microbiology-Data-Science-Module/Student%20Work%20Examples">Student Work Examples</a></td>
       <td>
         <ul>
-          <li>Module 1 Quiz</li>
+          <li>Sample student submission from the project and assignment</li>
         </ul>
       </td>
     </tr>
