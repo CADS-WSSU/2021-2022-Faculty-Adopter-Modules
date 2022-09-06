@@ -25,9 +25,8 @@ The primary focus of this repository concerns only the portion of the course whe
       <td>
         <ul>
           <li>Guide on Performing Regression Analysis
-            <ul>
-              <li>Descriptive Statistics Lecture</li>
-            </ul>
+          </li>
+          <li>Homework Assignment 1
           </li>
         </ul>
       </td>
