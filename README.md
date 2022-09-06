@@ -11,7 +11,7 @@ This repository aims to be a central open-source resource for all modules and ma
       <th>Module Description</th>
     </tr>
     <tr>
-      <td><a href="">Introduction to Art</a></td>
+      <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/ART1301-Introduction-to-Art-Data-Science-Module">Introduction to Art</a></td>
       <td>
         ART 1301 Introduction to Art
       </td>
