@@ -26,6 +26,12 @@ The primary focus of this repository concerns only the portion of the course whe
       The sole project of this module focusing on utilizing data analysis techniques for detecting fraudulent art based on the objective data of a given art piece.
       </td>
     </tr>
+    <tr>
+      <td><a href="https://github.com/CADS-WSSU/2021-2022-Faculty-Adopter-Modules/tree/main/ART1301-Introduction-to-Art-Data-Science-Module/Lectures">Lectures</a></td>
+      <td>
+      The background lecture to the primary project on the topic of art fraud and forgery.
+      </td>
+    </tr>
   </tbody>
 </table>                                       
 
